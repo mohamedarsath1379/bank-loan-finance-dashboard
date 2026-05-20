@@ -25,10 +25,10 @@ Loan defaults cost financial institutions **billions of dollars annually**. This
 ## 📊 Dashboard Preview
 
 ### Overview Dashboard
-![Overview Dashboard](screenshots/01_overview_dashboard.png)
+![Overview Dashboard](01_overview_dashboard.png)
 
 ### Drill-Through — State Analysis
-![State Drillthrough](screenshots/02_drillthrough_state.png)
+![State Drillthrough](02_drillthrough_state.png)
 ---
 
 ## 📈 Key Business Metrics (KPIs)
