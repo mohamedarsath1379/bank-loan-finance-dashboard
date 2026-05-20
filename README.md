@@ -27,21 +27,8 @@ Loan defaults cost financial institutions **billions of dollars annually**. This
 ### Overview Dashboard
 ![Overview Dashboard](screenshots/01_overview_dashboard.png)
 
-### Good Loan vs Bad Loan Portfolio
-![Portfolio Analysis](screenshots/02_kpi_cards.png)
-
-### Loan Applications by Grade
-![Grade Chart](screenshots/03_loan_grade_chart.png)
-
-### USA Loan Distribution Map
-![USA Map](screenshots/04_usa_map.png)
-
 ### Drill-Through — State Analysis
-![State Drillthrough](screenshots/05_drillthrough_state.png)
-
-### Monthly Trend with Slicer
-![Monthly Trend](screenshots/06_good_vs_bad_donut.png)
-
+![State Drillthrough](screenshots/02_drillthrough_state.png)
 ---
 
 ## 📈 Key Business Metrics (KPIs)
