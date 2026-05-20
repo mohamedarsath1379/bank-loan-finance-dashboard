@@ -1,4 +1,12 @@
-# Financial Loan Risk Analytics Dashboard
+#  Financial Loan Risk Analytics Dashboard
+
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
+![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![SQL](https://img.shields.io/badge/SQL-Advanced%20Queries-brightgreen)
+![DAX](https://img.shields.io/badge/DAX-Measures-purple)
+![Dataset](https://img.shields.io/badge/Dataset-Lending%20Club-lightblue)
+![Records](https://img.shields.io/badge/Records-2.26M-red)
 
 > Analyzing 2.26 million real loan records to identify default risk patterns, borrower behavior, and geographic lending trends.
 
