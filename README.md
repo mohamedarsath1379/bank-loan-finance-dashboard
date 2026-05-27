@@ -109,7 +109,7 @@ Loan defaults cost financial institutions **billions of dollars annually**. This
 - **Source:** [Lending Club Loan Data — Kaggle](https://www.kaggle.com/)
 - **Records:** 2.26 Million real loan applications
 - **Period:** 2007 – 2018
-- **Features:** 24 columns including loan amount, grade, purpose, DTI, interest rate, employment length, home ownership, and loan status
+- **Features:** 151 columns including loan amount, grade, purpose, DTI, interest rate, employment length, home ownership, and loan status
 
 ---
 
